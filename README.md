@@ -27,6 +27,6 @@
 <h3> 🤝🏻 &nbsp;Connect with developer.</h3>
 
 <p align="left">
-[![Instagram Badge](https://img.shields.io/badge/-rail_fanning_club_rfc-blueviolet?style=plastic-square&logo=instagram&logoColor=white&link=https://instagram.com/rail_fanning_club_rfc/)](https://instagram.com/rail_fanning_club_rfc)
-[![Twitter Badge](https://img.shields.io/badge/-rail_fan_club-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/rail_fan_club)](https://www.twitter.com/rail_fan_club)
-![GitHub Followers Badge]https://img.shields.io/github/followers/irfgrouppvt?label=Follow&style=social)
+<a href="https://railfanningclub.travel.blog/"><img alt="Website" src="https://img.shields.io/badge/Website-https://railfanningclub.travel.blog/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.instagram.com/rail_fanning_club_rfc/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rail_fanning_club_rfc-blue?style=flat-square&logo=instagram"></a>
+</p>
